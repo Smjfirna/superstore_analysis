@@ -40,11 +40,11 @@ New York & Los Angeles menjadi kota dengan sales tertinggi dan profit yanf sehat
 Diskon 20–30% masih meningkatkan sales, tapi profit mulai turun. Diskon >30% → tidak efektif menaikkan sales, malah profit turun drastis.
 
 ## Dashboard Preview
-![](dashboard/Dashboard review/KPI.png)
-![](dashboard/Dashboard review/Customer and Product.png)
-![](dashboard/Dashboard review/Category.png)
-![](dashboard/Dashboard review/Geografic.png)
-![](dashboard/Dashboard review/Discount.png)
+![](dashboard/Dashboard_review/KPI.png)
+![](dashboard/Dashboard_review/Customer and Product.png)
+![](dashboard/Dashboard_review/Category.png)
+![](dashboard/Dashboard_review/Geografic.png)
+![](dashboard/Dashboard_review/Discount.png)
 
 ## Business Recommendation
 1. Tingkatkan Promosi untuk Q4 agar memaksimalkan sales 

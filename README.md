@@ -3,13 +3,9 @@
 ## Project Overview
 Analisis performa penjualan & profit menggunakan dataset [Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) yang berfokus pada :
 * Sales & Revenue trend analysis
-
 * Profitability & Margin evaluation
-
 * Customer & Product performance
-
 * Geographic market insights
-
 * Discount impact on profitability
 
 ## Business Objective
@@ -22,18 +18,13 @@ Menganalisis data penjualan untuk:
 ## Tools & Workflow
 1. Tools
 * Python (Pandas, NumPy, Matplotlib) → Data cleaning & preprocessing.
-
 * Power BI → Dashboard interaktif & visualisasi.
-
 * SQL (opsional, untuk data query).
 
 2. Workflow
 * Data Preparation → cleaning, handling missing values, converting datatypes.
-
 * Exploratory Analysis → tren sales, analisis Costumer, Produk dan Geografis.
-
 * Dashboard Development → Power BI visual untuk KPI, customer, product, geography, dan discount.
-
 * Insights Generation → rekomendasi berbasis data.
 
 ## key Insights

@@ -41,7 +41,7 @@ Diskon 20â€“30% masih meningkatkan sales, tapi profit mulai turun. Diskon >30% â
 
 ## Dashboard Preview
 ![](dashboard/Dashboard_review/KPI.png)
-![](dashboard/Dashboard_review/Customer and Product.png)
+![](dashboard/Dashboard_review/CustomerandProduct.png)
 ![](dashboard/Dashboard_review/Category.png)
 ![](dashboard/Dashboard_review/Geografic.png)
 ![](dashboard/Dashboard_review/Discount.png)
